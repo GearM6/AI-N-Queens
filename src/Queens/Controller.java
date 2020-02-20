@@ -1,4 +1,4 @@
-package sample;
+package Queens;
 
 public class Controller {
 

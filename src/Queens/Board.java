@@ -1,4 +1,4 @@
-package sample;
+package Queens;
 
 import javafx.scene.Parent;
 import javafx.scene.*;
